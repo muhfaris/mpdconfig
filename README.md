@@ -11,5 +11,5 @@ Maka akan didapatkan konfigurasi mpd di ```/home/username/.mpd```
 
 ##Installasi Konfigurasi NCMPCPP
 **Copy** dan **Paste** folder ncmpcpp ke direktori ```/home/username```
-```$ cp -r .ncmpcpp ~/
+```$ cp -r .ncmpcpp ~/```
 
