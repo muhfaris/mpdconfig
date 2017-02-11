@@ -15,3 +15,5 @@ Maka akan didapatkan konfigurasi mpd di ```/home/username/.mpd```
 
 ```$ cp -r .ncmpcpp ~/```
 
+##Screenshot
+![Priview Tampilan](/screenshot/screenshoot_mpd.png)
